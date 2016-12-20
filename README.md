@@ -2,6 +2,4 @@
 实体类属性校验工具
 
 ---
-Api说明 fsdafdasfdasf
-
-
+Api说明 fsdafdasfdas
